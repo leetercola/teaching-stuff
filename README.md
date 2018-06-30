@@ -30,10 +30,10 @@ https://reactjs.org/community/debugging-tools.html starting here look through re
 
 Aside from react you'll need to constantly learn and stay on top of web and engineering trends. What the next big library or language is ect. Pay attention to the large and active development communities, places like google, airbnb, walmart, linkedin. They have a lot of people involved in web and javascript standards. People like Dan Abromov who are in pretty much every code base and tool and blog you read. 
 
-    * tiobe community index.https://www.tiobe.com/tiobe-index/ Will show languages and their popularity inside corporations.
-    * twitter following key contributors and trending engineering hash tags.
-    * reddit, surprisingly has a very active and useful web engineering community. Find the right subreddit and don't be afraid to ask questions
-    * github trends and tags. Pay attention to which repositories are getting active development, forks, and stars. Again focus on key contributors and follow where they go. [gitter](https://gitter.im/)
-    * as you go you'll find podcasts, or blogs that are trend setting or useful for tech learning.
-    * question answering tools like [stack overflow](http://www.stackoverflow.com)
-    * code and component playgrounds [codepen](https://codepen.io/)
+* tiobe community index.https://www.tiobe.com/tiobe-index/ Will show languages and their popularity inside corporations.
+* twitter following key contributors and trending engineering hash tags.
+* reddit, surprisingly has a very active and useful web engineering community. Find the right subreddit and don't be afraid to ask questions
+* github trends and tags. Pay attention to which repositories are getting active development, forks, and stars. Again focus on key contributors and follow where they go. [gitter](https://gitter.im/)
+* as you go you'll find podcasts, or blogs that are trend setting or useful for tech learning.
+* question answering tools like [stack overflow](http://www.stackoverflow.com)
+* code and component playgrounds [codepen](https://codepen.io/)
