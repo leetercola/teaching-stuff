@@ -29,6 +29,7 @@ or new technology you've looked up.
 https://reactjs.org/community/debugging-tools.html starting here look through reacts site for community > tools. It contains a good list of starter packs, learning resources, component libraries, and support channels. In general as React is sticking to native react concepts as much as possible it's a good community to delve into. React stuff will force good javascript habits that will help you in the future.
 
 Aside from react you'll need to constantly learn and stay on top of web and engineering trends. What the next big library or language is ect. Pay attention to the large and active development communities, places like google, airbnb, walmart, linkedin. They have a lot of people involved in web and javascript standards. People like Dan Abromov who are in pretty much every code base and tool and blog you read. 
+
     * tiobe community index.https://www.tiobe.com/tiobe-index/ Will show languages and their popularity inside corporations.
     * twitter following key contributors and trending engineering hash tags.
     * reddit, surprisingly has a very active and useful web engineering community. Find the right subreddit and don't be afraid to ask questions
